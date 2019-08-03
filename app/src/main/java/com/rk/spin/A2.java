@@ -10,4 +10,8 @@ public class A2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_a2);
     }
+    public void sam()
+    {
+        //cool
+    }
 }
